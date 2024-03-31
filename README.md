@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![dezrmu4-0b463d5d-1c1f-463b-909b-6951227567a5-ezgif com-crop](https://github.com/Harsh12Codes/Harsh12Codes/assets/83909388/586ad1b9-4f1e-4616-853c-e523bfb1fef0)
 
 <!--
 **Harsh12Codes/Harsh12Codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
