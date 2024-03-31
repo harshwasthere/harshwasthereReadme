@@ -1,5 +1,5 @@
-![githubbanner-ezgif com-crop](https://github.com/Harsh12Codes/Harsh12Codes/assets/83909388/27d26854-1db1-4c61-881d-f718526f3b07)
 
+![Github readme banner](https://github.com/Harsh12Codes/Harsh12Codes/assets/83909388/cfc8e6ce-df39-49b4-8ce7-6f540b9bf34f)
 <!--
 **Harsh12Codes/Harsh12Codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
