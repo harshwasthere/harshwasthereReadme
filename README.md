@@ -9,6 +9,15 @@
 ## 📊Weekly Development Breakdown
 <br>
 <!--START_SECTION:waka-->
+
+```txt
+From: 01 April 2024 - To: 08 April 2024
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## ⚙Tech Stack:
