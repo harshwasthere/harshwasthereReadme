@@ -1,18 +1,31 @@
 name: Waka Readme
 
 on:
-  # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
+    # Runs at 00:00AM UTC
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Update WakaReadme DevMetrics
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+      repository-projects: write
     steps:
-      - uses: athul/waka-readme@v0.3.0 # this action name
+        # this action name
+      - uses: athul/waka-readme@master # do NOT replace with anything else
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
+          ### content
+          SHOW_TITLE: true 
+          SECTION_NAME: waka
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 5
+          SHOW_TIME: true 
+          SHOW_TOTAL: true 
+          STOP_AT_OTHER: true 
 
